@@ -58,11 +58,11 @@ function calculate() {
   );
 
   document.getElementById("finalAmount").textContent =
-    "$" + results.finalAmount;
+    "so'm" + results.finalAmount;
   document.getElementById("totalInvestment").textContent =
-    "$" + results.totalInvestment;
+    "so'm" + results.totalInvestment;
   document.getElementById("totalInterest").textContent =
-    "$" + results.totalInterest;
+    "so'm" + results.totalInterest;
   document.getElementById("interestRate").textContent =
     results.interestRate + "%";
 }
